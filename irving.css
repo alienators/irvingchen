@@ -19,14 +19,15 @@ html {
   border: 20px solid black;
   box-sizing: border-box;
   z-index: 1000;
+  transition: all .5s linear;
 }
 #name {
   text-align: center;
   line-height: 1.2;
+  margin-bottom: 0;
 }
 #button {
   font-size: 2rem;
-  margin-top: 1rem;
-  border-radius: 100%;
+  margin:;
   color: black;
 }
